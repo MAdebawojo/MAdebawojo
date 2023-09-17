@@ -20,7 +20,7 @@ Hi there! 👋 I'm Mosope, a CS Major and software developer passionate about co
 - :hammer_and_wrench: C/C++
 - :git: Git
 - :github: GitHub
-- :mongodb: - MongoDB
+- :mongodb: MongoDB
 - :mysql: MySQL
 - :bootstrap: Bootstrap
 
